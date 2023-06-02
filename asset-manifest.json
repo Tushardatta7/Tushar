@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Tushar/static/css/main.3d27e228.css",
+    "main.js": "/Tushar/static/js/main.0670fe9f.js",
+    "static/media/kickstart.png": "/Tushar/static/media/kickstart.e27936ec3fc35c1b6808.png",
+    "static/media/krypto.png": "/Tushar/static/media/krypto.ca0e8bf963cc76cfe26c.png",
+    "static/media/project.jpeg": "/Tushar/static/media/project.7063238598429f9a1f79.jpeg",
+    "static/media/home-main.svg": "/Tushar/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Tushar/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/lift.png": "/Tushar/static/media/lift.37d5e75bcb0994102a34.png",
+    "static/media/Tushar.pdf": "/Tushar/static/media/Tushar.fac40b9690baf9e3cfa9.pdf",
+    "static/media/home-bg.jpg": "/Tushar/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pg.png": "/Tushar/static/media/pg.0d0d8ff689849d3d367c.png",
+    "static/media/sLogo.png": "/Tushar/static/media/sLogo.1c1c20343b6d8f564460.png",
+    "static/media/pre.svg": "/Tushar/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Tushar/index.html",
+    "main.3d27e228.css.map": "/Tushar/static/css/main.3d27e228.css.map",
+    "main.0670fe9f.js.map": "/Tushar/static/js/main.0670fe9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d27e228.css",
+    "static/js/main.0670fe9f.js"
+  ]
+}
